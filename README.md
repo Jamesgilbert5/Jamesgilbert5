@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Jamesgilbert5
-- 👀 I’m interested in finance, data analysis, data science, software, entrepreneurship 
-- 🌱 I’m currently learning python, data analysis, data science
-- 💞️ I’m looking to collaborate on data analysis and data science applied in finance
-- 📫 How to reach me ...
+- 👀 I’m interested in product management, data analysis, data science, software, entrepreneurship, tech and finance. I have a background as a business analyst in tech (agile & waterfall), specifically in the wealth and asset management space.
+- 🌱 I’m currently learning about product management and exploring python, data analysis and data science. 
+- 💞️ I’d love to get a job as a product manager and continue growing my knowledge in tech. 
+- 📫 If you'd like to work with me, discuss mutual interests or give me advice or suggestions on projects then please feel free to connect with me on Linkedin: https://www.linkedin.com/in/james-gilbert-69b222102/
 
 <!---
 Jamesgilbert5/Jamesgilbert5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
